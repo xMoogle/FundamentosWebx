@@ -1,0 +1,18 @@
+p
+{
+    color: pink;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.img1
+{
+    display: flex;
+    width: 400px;
+    align-content: center;
+}
+
+#p-unic
+{
+    color: blueviolet;
+}
