@@ -10,6 +10,9 @@ p
     display: flex;
     width: 400px;
     align-content: center;
+    border: 20px;
+    margin: 30px;
+    padding: 50px;
 }
 
 #p-unic
